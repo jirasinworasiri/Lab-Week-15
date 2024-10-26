@@ -1,0 +1,11 @@
+C:\LAB 3\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+C:\LAB 3\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+C:\LAB 3\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
