@@ -1,9 +1,4 @@
 C:\LAB 3\CalcLibTest\bin\Debug\net8.0\CoverletSourceRootsMapping_CalcLibTest
-C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibTest.csproj.AssemblyReference.cache
-C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibTest.AssemblyInfoInputs.cache
-C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibTest.AssemblyInfo.cs
-C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibTest.csproj.CoreCompileInputs.cache
 C:\LAB 3\CalcLibTest\bin\Debug\net8.0\testhost.dll
 C:\LAB 3\CalcLibTest\bin\Debug\net8.0\testhost.exe
 C:\LAB 3\CalcLibTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
@@ -106,6 +101,12 @@ C:\LAB 3\CalcLibTest\bin\Debug\net8.0\CalculatorLibrary.dll
 C:\LAB 3\CalcLibTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\LAB 3\CalcLibTest\bin\Debug\net8.0\CalculatorLibrary.pdb
 C:\LAB 3\CalcLibTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibTest.csproj.AssemblyReference.cache
+C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibTest.AssemblyInfoInputs.cache
+C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibTest.AssemblyInfo.cs
+C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibTest.csproj.CoreCompileInputs.cache
+C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibTest.sourcelink.json
 C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibT.FFEC843F.Up2Date
 C:\LAB 3\CalcLibTest\obj\Debug\net8.0\CalcLibTest.dll
 C:\LAB 3\CalcLibTest\obj\Debug\net8.0\refint\CalcLibTest.dll

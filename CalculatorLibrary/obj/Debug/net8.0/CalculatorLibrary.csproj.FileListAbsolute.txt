@@ -9,3 +9,4 @@ C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
 C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
 C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
 C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
+C:\LAB 3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.sourcelink.json
